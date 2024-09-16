@@ -1,5 +1,7 @@
-Git clone the repository and get inside the repository folder.
+Git clone the repository 
 
-Then run python manage.py runserver
+Go inside the repository folder.
 
-Use the local host link to get the resume page "http://127.0.0.1:8000/"
+Then run the command, python manage.py runserver
+
+Use the local host link to get to the resume page "http://127.0.0.1:8000/"
