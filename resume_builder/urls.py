@@ -21,5 +21,5 @@ from resume_app.views import home_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('resume/', home_view, name="resume_view"),
+    path('', home_view, name="resume_view"),
 ]
